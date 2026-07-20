@@ -52,8 +52,34 @@ def _is_price_header(header: str) -> bool:
     return h in [norm_text(p) for p in sources.catalog.price_headers]
 
 
-def _stable_sku_id(basis: str) -> str:
-    return "SKU-" + hashlib.sha1(basis.encode()).hexdigest()[:10].upper()
+_used_codes: set[str] = set()
+
+
+def _compact(value: str, max_len: int = 10) -> str:
+    return re.sub(r"[^A-Z0-9./]", "", str(value).upper().replace(" ", ""))[:max_len]
+
+
+def _sku_code(category: str, specs: dict) -> str:
+    """Uniform, human-readable product code derived from the specs themselves:
+    HTP-A2XWAY-1C-95-3.3KV. Deterministic across rebuilds; numeric suffix on
+    the rare collision."""
+    initials = "".join(w[0] for w in re.findall(r"[A-Za-z0-9]+", category or ""))[:4].upper()
+    armour = str(specs.get("armouring", ""))[:1].upper()  # A / U
+    parts = [p for p in [
+        initials,
+        _compact(specs.get("cable_type", ""), 8),
+        (_compact(specs.get("core_count", ""), 4) + "C") if specs.get("core_count") else "",
+        _compact(specs.get("cross_section_sqmm", ""), 6),
+        _compact(specs.get("voltage_grade", ""), 8),
+        armour if armour in ("A", "U") else "",
+    ] if p]
+    code = "-".join(parts) or "SKU-" + hashlib.sha1(str(sorted(specs.items())).encode()).hexdigest()[:8].upper()
+    base, n = code, 1
+    while code in _used_codes:
+        n += 1
+        code = f"{base}-{n}"
+    _used_codes.add(code)
+    return code
 
 
 def _apply_derived(specs: dict[str, str]) -> None:
@@ -102,7 +128,7 @@ def _ingest_csv(session: Session, path: Path) -> int:
                          specs.get("core_count", ""), specs.get("cross_section_sqmm", ""),
                          specs.get("voltage_grade", "")]
             name = " ".join(b for b in name_bits if b) or f"{path.stem} row {count + 1}"
-            sku_id = _stable_sku_id(f"{category}|{sorted(specs.items())}")
+            sku_id = _sku_code(category, specs)
             session.merge(SKU(sku_id=sku_id, name=name, category=category,
                               specs=specs, datasheet_source=path.name))
             session.flush()  # SKU row must exist before its price row (FK)
@@ -130,7 +156,7 @@ def _ingest_unstructured(session: Session, path: Path) -> int:
         if not specs:
             continue
         _apply_derived(specs)
-        sku_id = _stable_sku_id(f"{sku.category}|{sorted(specs.items())}")
+        sku_id = _sku_code(sku.category, specs)
         session.merge(SKU(sku_id=sku_id, name=sku.name, category=sku.category,
                           specs=specs, datasheet_source=path.name))
         session.flush()  # SKU row must exist before its price row (FK)
@@ -165,6 +191,7 @@ def _ingest_service_prices(session: Session, path: Path) -> int:
 def rebuild_catalog(session: Session) -> dict:
     """Full re-ingest of data/datasheets/ → skus, price_materials, price_services."""
     DATASHEETS_DIR.mkdir(parents=True, exist_ok=True)
+    _used_codes.clear()
     session.execute(delete(PriceMaterial))
     session.execute(delete(PriceService))
     session.execute(delete(SKU))

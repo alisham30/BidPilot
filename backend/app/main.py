@@ -25,7 +25,8 @@ from .dataset.builder import build_dataset, get_dataset
 from .dataset.catalog import rebuild_catalog
 from .dataset.registry import rfps_in_window
 from .db import (
-    RFP, Decision, Escalation, Followup, PriceService, Run, SessionLocal, SKU, new_id,
+    RFP, Decision, Escalation, Followup, PriceService, Run, SessionLocal, SKU,
+    friendly_id, new_id,
 )
 from .ingestion.email_scanner import scan_inbox
 from .ingestion.web_scanner import scan_portals
@@ -82,7 +83,7 @@ def _auto_start_run(session, rfp_id: str) -> None:
     existing = session.scalar(select(Run).where(Run.rfp_id == rfp_id))
     if existing is not None:
         return
-    run = Run(run_id=new_id("run"), rfp_id=rfp_id, state={}, status="running")
+    run = Run(run_id=friendly_id(session, "DRAFT"), rfp_id=rfp_id, state={}, status="running")
     session.add(run)
     session.commit()
     threading.Thread(target=execute_run, args=(run.run_id,), daemon=True).start()
@@ -115,6 +116,36 @@ async def catalog_rebuild():
         with SessionLocal() as session:
             return rebuild_catalog(session)
     return await asyncio.to_thread(work)
+
+
+@app.get("/catalog/skus")
+def list_skus(q: str = "", category: str = "", limit: int = 60, offset: int = 0):
+    """Browse/search the product catalog — every word of q must match somewhere
+    in code+name+category+specs (order-free)."""
+    from sqlalchemy import String as SAString, cast
+    from .db import PriceMaterial
+    with SessionLocal() as session:
+        stmt = select(SKU)
+        if category:
+            stmt = stmt.where(SKU.category == category)
+        for term in [t.lower() for t in q.split() if t.strip()]:
+            hay = func.lower(SKU.sku_id + " " + SKU.name + " " + SKU.category + " " + cast(SKU.specs, SAString))
+            stmt = stmt.where(hay.like(f"%{term}%"))
+        total = session.scalar(select(func.count()).select_from(stmt.subquery())) or 0
+        rows = list(session.scalars(stmt.order_by(SKU.category, SKU.sku_id)
+                                    .limit(max(1, min(limit, 200))).offset(max(0, offset))))
+        out = []
+        for s in rows:
+            price = session.scalar(select(PriceMaterial).where(PriceMaterial.sku_id == s.sku_id)
+                                   .order_by(PriceMaterial.id.desc()))
+            out.append({
+                "sku_id": s.sku_id, "name": s.name, "category": s.category,
+                "specs": s.specs, "source": s.datasheet_source,
+                "unit_price": price.unit_price if price else None,
+                "currency": price.currency if price else None,
+                "unit": price.unit if price else None,
+            })
+        return {"total": total, "items": out}
 
 
 @app.get("/catalog/stats")
@@ -187,7 +218,7 @@ def start_run(rfp_id: str):
             built = build_dataset(session, rfp)
             if built is None:
                 raise HTTPException(422, "dataset extraction failed — see escalations")
-        run = Run(run_id=new_id("run"), rfp_id=rfp_id, state={}, status="running")
+        run = Run(run_id=friendly_id(session, "DRAFT"), rfp_id=rfp_id, state={}, status="running")
         session.add(run)
         session.commit()
         run_id = run.run_id

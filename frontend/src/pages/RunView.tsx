@@ -58,9 +58,9 @@ export default function RunView() {
 
   return (
     <>
-      <h1 className="page-title">{tenderTitle || `Bid draft ${run.run_id.slice(-6)}`}</h1>
+      <h1 className="page-title">{tenderTitle || run.run_id}</h1>
       <p className="page-sub">
-        Bid draft <span className="mono">{run.run_id.slice(-6)}</span> · <Chip status={run.status} />{" "}
+        <span className="mono">{run.run_id}</span> · <Chip status={run.status} />{" "}
         {run.status === "running" && <span className="muted">live · current step: <b>{liveNode ?? "starting"}</b></span>}
         {run.status === "awaiting_review" && <span className="muted"> · review the matches below, then approve, edit or no-bid</span>}
       </p>
@@ -129,7 +129,8 @@ export default function RunView() {
 
       {/* ---------------- verdict ---------------- */}
       {s.verdict && (
-        <div className="card">
+        <div className={`card ${s.verdict.overall === "proceed" ? "verdict-proceed"
+          : s.verdict.overall === "proceed_with_deviations" ? "verdict-deviations" : "verdict-nobid"}`}>
           <h3>Verifier verdict — <Chip status={s.verdict.overall} /> <span className="small muted">(recommendation only; no authority to act)</span></h3>
           <p style={{ margin: "6px 0 10px" }}>{verdictInPlainWords(s)}</p>
           {s.verdict.evidence.length > 0 && (

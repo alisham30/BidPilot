@@ -8,7 +8,7 @@ import logging
 
 from sqlalchemy.orm import Session
 
-from ..db import Escalation, new_id
+from ..db import Escalation, friendly_id
 
 log = logging.getLogger("bidpilot.escalations")
 
@@ -16,7 +16,7 @@ log = logging.getLogger("bidpilot.escalations")
 def escalate(session: Session, source_agent: str, reason: str,
              rfp_id: str | None = None, severity: str = "medium") -> Escalation:
     row = Escalation(
-        id=new_id("esc"), rfp_id=rfp_id, source_agent=source_agent,
+        id=friendly_id(session, "ALERT"), rfp_id=rfp_id, source_agent=source_agent,
         reason=reason[:4000], severity=severity,
     )
     session.add(row)

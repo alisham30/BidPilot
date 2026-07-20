@@ -59,6 +59,12 @@ export interface QueueEntry {
   items_total: number; items_flagged: number;
 }
 
+export interface CatalogSku {
+  sku_id: string; name: string; category: string;
+  specs: Record<string, string>; source: string;
+  unit_price: number | null; currency: string | null; unit: string | null;
+}
+
 export interface Stats {
   rfps_total: number; rfps_awaiting_review: number; rfps_in_window: number;
   bids_submitted: number; open_escalations: number; skus: number;
@@ -99,6 +105,9 @@ export const api = {
   scanWeb: () => req("/scan/web", { method: "POST" }),
   rebuildCatalog: () => req("/catalog/rebuild", { method: "POST" }),
   catalogStats: () => req<{ skus: number; service_prices: number; categories: string[] }>("/catalog/stats"),
+  catalogSkus: (q: string, category: string, offset = 0) =>
+    req<{ total: number; items: CatalogSku[] }>(
+      `/catalog/skus?q=${encodeURIComponent(q)}&category=${encodeURIComponent(category)}&offset=${offset}`),
 };
 
 export function runSocket(runId: string, onMessage: (data: { type: string; node?: string; state?: RunState }) => void): WebSocket {

@@ -9,7 +9,7 @@ from sqlalchemy import or_, select
 from sqlalchemy.orm import Session
 
 from ..config import sources
-from ..db import RFP, new_id
+from ..db import RFP, friendly_id
 
 
 def parse_iso_date(value: str | None) -> date | None:
@@ -43,7 +43,7 @@ def upsert_rfp(session: Session, *, title: str, issuer: str, reference_no: str,
             session.commit()
         return existing, False
     row = RFP(
-        rfp_id=new_id("rfp"), title=title, issuer=issuer, reference_no=reference_no,
+        rfp_id=friendly_id(session, "RFP", year=True), title=title, issuer=issuer, reference_no=reference_no,
         due_date=due_date, source=source, source_detail=source_detail,
         dedupe_key=key, doc_paths=doc_paths or [], status="new",
     )

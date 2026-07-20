@@ -36,6 +36,28 @@ class Base(DeclarativeBase):
     pass
 
 
+class Counter(Base):
+    """Monotonic counters behind the human-readable IDs (RFP-2026-0001, DRAFT-0001…)."""
+    __tablename__ = "id_counters"
+
+    name: Mapped[str] = mapped_column(String(30), primary_key=True)
+    value: Mapped[int] = mapped_column(default=0)
+
+
+def friendly_id(session, prefix: str, *, year: bool = False, width: int = 4) -> str:
+    """Uniform, understandable IDs: RFP-2026-0007, DRAFT-0012, ALERT-0003."""
+    row = session.get(Counter, prefix, with_for_update=True)
+    if row is None:
+        row = Counter(name=prefix, value=0)
+        session.add(row)
+        session.flush()
+    row.value += 1
+    session.flush()
+    if year:
+        return f"{prefix}-{datetime.now().year}-{row.value:0{width}d}"
+    return f"{prefix}-{row.value:0{width}d}"
+
+
 RFP_STATUSES = ["new", "extracted", "drafting", "awaiting_review", "approved", "no_bid", "submitted", "closed"]
 
 

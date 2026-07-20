@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/assistant.tsx","./src/api.ts","./src/components.tsx","./src/main.tsx","./src/pages/bids.tsx","./src/pages/escalations.tsx","./src/pages/pipeline.tsx","./src/pages/rfpdetail.tsx","./src/pages/runview.tsx"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/assistant.tsx","./src/api.ts","./src/components.tsx","./src/main.tsx","./src/pages/bids.tsx","./src/pages/catalog.tsx","./src/pages/escalations.tsx","./src/pages/pipeline.tsx","./src/pages/rfpdetail.tsx","./src/pages/runview.tsx"],"version":"5.9.3"}

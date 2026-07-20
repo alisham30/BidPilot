@@ -42,15 +42,51 @@ export default function Pipeline() {
   };
 
   const queue = stats?.review_queue ?? [];
+  const name = (localStorage.getItem("bidpilot_actor") || "").split(" ")[0];
+  const hour = new Date().getHours();
+  const daypart = hour < 12 ? "morning" : hour < 17 ? "afternoon" : "evening";
+  const today = new Date().toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long" });
+  const dist = {
+    live: rfps.filter((r) => ["new", "extracted", "drafting"].includes(r.status)).length,
+    review: rfps.filter((r) => r.status === "awaiting_review").length,
+    won: rfps.filter((r) => ["approved", "submitted"].includes(r.status)).length,
+    closed: rfps.filter((r) => ["closed", "no_bid"].includes(r.status)).length,
+  };
+  const distTotal = Math.max(1, dist.live + dist.review + dist.won + dist.closed);
 
   return (
     <>
-      <h1 className="page-title">Tender desk</h1>
-      <p className="page-sub">
-        Tenders arrive by email and portal on their own; each one is analyzed automatically.
-        Your job starts below — review, decide, submit.
-      </p>
+      <div className="greet">
+        <h1 className="hello">
+          Good {daypart}{name ? <>, <em>{name.charAt(0).toUpperCase() + name.slice(1)}</em></> : ""}
+        </h1>
+        <p className="today">
+          {today} · {queue.filter((q) => !q.running).length > 0
+            ? `${queue.filter((q) => !q.running).length} bid draft(s) waiting for your decision`
+            : "no decisions pending — the desk is clear"}
+        </p>
+      </div>
 
+      <div className="statusbar-wrap">
+        <div className="statusbar" title="Tender pipeline in view">
+          <div className="seg s-live" style={{ width: `${(dist.live / distTotal) * 100}%` }} />
+          <div className="seg s-review" style={{ width: `${(dist.review / distTotal) * 100}%` }} />
+          <div className="seg s-won" style={{ width: `${(dist.won / distTotal) * 100}%` }} />
+          <div className="seg s-closed" style={{ width: `${(dist.closed / distTotal) * 100}%` }} />
+        </div>
+        <div className="statusbar-legend">
+          <span><i className="seg s-live" /> incoming {dist.live}</span>
+          <span><i className="seg s-review" /> in review {dist.review}</span>
+          <span><i className="seg s-won" /> approved/submitted {dist.won}</span>
+          <span><i className="seg s-closed" /> closed {dist.closed}</span>
+        </div>
+      </div>
+
+      {!stats && (
+        <div className="tiles">
+          {[...Array(5)].map((_, i) => <div key={i} className="skeleton" />)}
+        </div>
+      )}
       {stats && (
         <div className="tiles">
           <Tile label="Awaiting your decision" value={queue.filter((q) => !q.running).length}
@@ -66,9 +102,11 @@ export default function Pipeline() {
       <div className="card queue-card">
         <h3>Needs your decision {queue.length > 0 && <span className="counter">{queue.length}</span>}</h3>
         {queue.length === 0 && (
-          <p className="muted small" style={{ margin: 0 }}>
-            Nothing waiting. New tenders are analyzed automatically and will appear here.
-          </p>
+          <div className="empty">
+            <div className="glyph">🗂️</div>
+            All clear — new tenders are picked up from your inbox every 5 minutes,
+            analyzed automatically, and land here for your decision.
+          </div>
         )}
         <div className="queue">
           {queue.map((q) => (

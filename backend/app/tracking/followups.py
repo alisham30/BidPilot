@@ -12,7 +12,7 @@ from sqlalchemy.orm import Session
 
 from .. import llm
 from ..config import settings, sources
-from ..db import RFP, Followup, new_id
+from ..db import RFP, Followup, friendly_id
 from ..schemas import FollowupDraft
 from .escalations import escalate
 
@@ -37,7 +37,7 @@ def draft_followup(session: Session, rfp: RFP, reason: str) -> Followup:
         escalate(session, "bid_tracker", f"follow-up drafting failed: {e}", rfp_id=rfp.rfp_id)
         subject = f"Follow-up: {rfp.title} ({rfp.reference_no})"
         body = f"[drafting failed — write manually]\nReason: {reason}"
-    row = Followup(id=new_id("fu"), rfp_id=rfp.rfp_id, subject=subject, body=body, reason=reason)
+    row = Followup(id=friendly_id(session, "FU"), rfp_id=rfp.rfp_id, subject=subject, body=body, reason=reason)
     session.add(row)
     session.commit()
     return row
