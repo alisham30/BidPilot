@@ -1,0 +1,11 @@
+test_name,standard,price,currency
+High voltage test,IS 7098,15000,INR
+Conductor resistance test,IS 8130,4500,INR
+Insulation resistance test,IS 7098,3500,INR
+Partial discharge test,IS 7098,22000,INR
+Tan delta test,IS 7098,18000,INR
+Flammability test,IS 10810,9000,INR
+Tensile strength and elongation test,IS 10810,6000,INR
+Armour wire test,IS 3975,5000,INR
+Routine acceptance test,IS 7098,12000,INR
+Type test package,IS 7098,85000,INR

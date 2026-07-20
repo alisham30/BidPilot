@@ -1,0 +1,55 @@
+{
+  "comment": "Golden extraction of a real-ish PSU cable tender. Pins the schema and the deterministic scorer so prompt/schema changes can't silently regress matching.",
+  "dataset": {
+    "title": "Supply of 3.3 kV XLPE Power Cables for Substation Works",
+    "issuer": "State Transmission PSU",
+    "reference_no": "NIT/TR/2026/0187",
+    "due_date": "2026-09-15",
+    "line_items": [
+      {
+        "item_no": "1",
+        "description": "3.3 kV, 1C x 95 sqmm, Aluminium conductor, XLPE insulated, armoured power cable to IS 7098 (Part 2)",
+        "quantity": 2.5,
+        "unit": "km",
+        "specs": [
+          {"name": "voltage_grade", "kind": "numeric_exact", "value": "3.3 kV", "numeric_value": 3.3, "unit": "kV"},
+          {"name": "core_count", "kind": "numeric_exact", "value": "1", "numeric_value": 1, "unit": ""},
+          {"name": "cross_section_sqmm", "kind": "numeric_exact", "value": "95", "numeric_value": 95, "unit": "sqmm"},
+          {"name": "conductor_material", "kind": "categorical", "value": "Aluminium"},
+          {"name": "insulation_type", "kind": "categorical", "value": "XLPE"},
+          {"name": "armouring", "kind": "categorical", "value": "Armoured"},
+          {"name": "standard", "kind": "categorical", "value": "IS 7098 (Part 2):2011"}
+        ]
+      }
+    ],
+    "tests": [
+      {"name": "High voltage test", "standard": "IS 7098", "description": "HV withstand"},
+      {"name": "Conductor resistance test", "standard": "IS 8130", "description": ""}
+    ],
+    "special_conditions": []
+  },
+  "catalog_sku": {
+    "sku_id": "SKU-GOLDEN",
+    "specs": {
+      "cable_type": "A2XWaY",
+      "voltage_grade": "3.3 kV",
+      "core_count": "1",
+      "cross_section_sqmm": "95",
+      "conductor_material": "Aluminium",
+      "insulation_type": "XLPE",
+      "armouring": "Armoured",
+      "standard": "IS 7098 (Part 2):2011"
+    }
+  },
+  "expected_pct": 100.0,
+  "near_miss_sku_specs": {
+    "voltage_grade": "3.3 kV",
+    "core_count": "1",
+    "cross_section_sqmm": "70",
+    "conductor_material": "Aluminium",
+    "insulation_type": "XLPE",
+    "armouring": "Armoured",
+    "standard": "IS 7098 (Part 2):2011"
+  },
+  "expected_near_miss_pct": 96.2
+}

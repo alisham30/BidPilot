@@ -1,0 +1,636 @@
+Product Category,Cable Type,Voltage Grade,Conductor Material,Core Count,Cross Section (sq.mm),Armouring,Insulation Type,Standard,Price (Rupees/m),Source
+LT Power,A2XY,1.1 kV,Aluminium,1,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,127,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,10,Unarmoured,XLPE,IS 7098 (Part 1):1988,147,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,178,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,223,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,340,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,429,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,120,Unarmoured,XLPE,IS 7098 (Part 1):1988,660,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,150,Unarmoured,XLPE,IS 7098 (Part 1):1988,803,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,185,Unarmoured,XLPE,IS 7098 (Part 1):1988,971,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,240,Unarmoured,XLPE,IS 7098 (Part 1):1988,1234,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,300,Unarmoured,XLPE,IS 7098 (Part 1):1988,1521,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,400,Unarmoured,XLPE,IS 7098 (Part 1):1988,1999,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,162,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,10,Unarmoured,XLPE,IS 7098 (Part 1):1988,192,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,3,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,204,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,6,Armoured,XLPE,IS 7098 (Part 1):1988,220,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,10,Armoured,XLPE,IS 7098 (Part 1):1988,241,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,16,Armoured,XLPE,IS 7098 (Part 1):1988,273,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,25,Armoured,XLPE,IS 7098 (Part 1):1988,321,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,50,Armoured,XLPE,IS 7098 (Part 1):1988,454,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 1):1988,559,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 1):1988,798,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 1):1988,928,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 1):1988,1079,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 1):1988,1316,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 1):1988,1576,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 1):1988,2008,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,6,Armoured,XLPE,IS 7098 (Part 1):1988,272,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,10,Armoured,XLPE,IS 7098 (Part 1):1988,308,Extended: interpolated from EY price curve — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,10,Armoured,XLPE,IS 7098 (Part 1):1988,392,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,398,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,10,Unarmoured,XLPE,IS 7098 (Part 1):1988,479,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,602,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,919,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,1121,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,1389,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,120,Unarmoured,XLPE,IS 7098 (Part 1):1988,2010,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,150,Unarmoured,XLPE,IS 7098 (Part 1):1988,2352,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,185,Unarmoured,XLPE,IS 7098 (Part 1):1988,2750,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,240,Unarmoured,XLPE,IS 7098 (Part 1):1988,3377,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,300,Unarmoured,XLPE,IS 7098 (Part 1):1988,4061,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,640,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,6,Armoured,XLPE,IS 7098 (Part 1):1988,686,Extended: interpolated from EY price curve — verify before quoting
+Flexible,FRLS,1.1 kV,Copper,1,1.5,Unarmoured,FRLS PVC,IS 694:2010,22,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,35,Armoured,XLPE,IS 7098 (Part 1):1988,1064,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,50,Armoured,XLPE,IS 7098 (Part 1):1988,1296,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,70,Armoured,XLPE,IS 7098 (Part 1):1988,1604,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,120,Armoured,XLPE,IS 7098 (Part 1):1988,2329,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,150,Armoured,XLPE,IS 7098 (Part 1):1988,2735,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,185,Armoured,XLPE,IS 7098 (Part 1):1988,3209,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,240,Armoured,XLPE,IS 7098 (Part 1):1988,3953,Extended: interpolated from EY price curve — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,300,Armoured,XLPE,IS 7098 (Part 1):1988,4766,Extended: interpolated from EY price curve — verify before quoting
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,1,Armoured,HFFR,IS 14855,156,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,1,Unarmoured,HFFR,IS 14855,124,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,1.5,Armoured,HFFR,IS 14855,191,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,1.5,Unarmoured,HFFR,IS 14855,153,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,2.5,Armoured,HFFR,IS 14855,262,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,2.5,Unarmoured,HFFR,IS 14855,210,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,4,Armoured,HFFR,IS 14855,369,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,4,Unarmoured,HFFR,IS 14855,296,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,6,Armoured,HFFR,IS 14855,512,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,6,Unarmoured,HFFR,IS 14855,410,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,10,Armoured,HFFR,IS 14855,797,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,10,Unarmoured,HFFR,IS 14855,638,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,16,Armoured,HFFR,IS 14855,1224,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,1,16,Unarmoured,HFFR,IS 14855,980,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,1,Armoured,HFFR,IS 14855,257,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,1,Unarmoured,HFFR,IS 14855,205,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,1.5,Armoured,HFFR,IS 14855,316,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,1.5,Unarmoured,HFFR,IS 14855,252,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,2.5,Armoured,HFFR,IS 14855,433,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,2.5,Unarmoured,HFFR,IS 14855,346,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,4,Armoured,HFFR,IS 14855,609,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,4,Unarmoured,HFFR,IS 14855,488,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,6,Armoured,HFFR,IS 14855,845,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,6,Unarmoured,HFFR,IS 14855,676,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,10,Armoured,HFFR,IS 14855,1315,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,10,Unarmoured,HFFR,IS 14855,1052,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,16,Armoured,HFFR,IS 14855,2020,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,2,16,Unarmoured,HFFR,IS 14855,1616,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,1,Armoured,HFFR,IS 14855,358,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,1,Unarmoured,HFFR,IS 14855,286,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,1.5,Armoured,HFFR,IS 14855,440,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,1.5,Unarmoured,HFFR,IS 14855,352,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,2.5,Armoured,HFFR,IS 14855,604,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,2.5,Unarmoured,HFFR,IS 14855,483,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,4,Armoured,HFFR,IS 14855,850,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,4,Unarmoured,HFFR,IS 14855,680,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,6,Armoured,HFFR,IS 14855,1177,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,6,Unarmoured,HFFR,IS 14855,942,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,10,Armoured,HFFR,IS 14855,1833,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,10,Unarmoured,HFFR,IS 14855,1466,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,16,Armoured,HFFR,IS 14855,2816,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,250 V,Copper,3,16,Unarmoured,HFFR,IS 14855,2253,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,1,Armoured,HFFR,IS 14855,179,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,1,Unarmoured,HFFR,IS 14855,143,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,1.5,Armoured,HFFR,IS 14855,220,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,1.5,Unarmoured,HFFR,IS 14855,176,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,2.5,Armoured,HFFR,IS 14855,302,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,2.5,Unarmoured,HFFR,IS 14855,241,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,4,Armoured,HFFR,IS 14855,425,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,4,Unarmoured,HFFR,IS 14855,340,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,6,Armoured,HFFR,IS 14855,589,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,6,Unarmoured,HFFR,IS 14855,471,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,10,Armoured,HFFR,IS 14855,916,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,10,Unarmoured,HFFR,IS 14855,733,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,16,Armoured,HFFR,IS 14855,1408,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,1,16,Unarmoured,HFFR,IS 14855,1126,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,1,Armoured,HFFR,IS 14855,295,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,1,Unarmoured,HFFR,IS 14855,236,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,1.5,Armoured,HFFR,IS 14855,363,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,1.5,Unarmoured,HFFR,IS 14855,290,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,2.5,Armoured,HFFR,IS 14855,498,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,2.5,Unarmoured,HFFR,IS 14855,398,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,4,Armoured,HFFR,IS 14855,701,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,4,Unarmoured,HFFR,IS 14855,561,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,6,Armoured,HFFR,IS 14855,971,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,6,Unarmoured,HFFR,IS 14855,777,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,10,Armoured,HFFR,IS 14855,1512,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,10,Unarmoured,HFFR,IS 14855,1210,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,16,Armoured,HFFR,IS 14855,2323,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,2,16,Unarmoured,HFFR,IS 14855,1859,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,1,Armoured,HFFR,IS 14855,412,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,1,Unarmoured,HFFR,IS 14855,329,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,1.5,Armoured,HFFR,IS 14855,506,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,1.5,Unarmoured,HFFR,IS 14855,405,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,2.5,Armoured,HFFR,IS 14855,694,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,2.5,Unarmoured,HFFR,IS 14855,555,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,4,Armoured,HFFR,IS 14855,977,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,4,Unarmoured,HFFR,IS 14855,782,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,6,Armoured,HFFR,IS 14855,1354,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,6,Unarmoured,HFFR,IS 14855,1083,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,10,Armoured,HFFR,IS 14855,2108,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,10,Unarmoured,HFFR,IS 14855,1686,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,16,Armoured,HFFR,IS 14855,3238,Extended: demo estimate — replace with real marine-cable rates
+Marine & Defence,HFFR Ship Wiring Cable,1.1 kV,Copper,3,16,Unarmoured,HFFR,IS 14855,2591,Extended: demo estimate — replace with real marine-cable rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,1.5,Unarmoured,PVC,IS 694:2010,96,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,2.5,Unarmoured,PVC,IS 694:2010,134,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,4,Unarmoured,PVC,IS 694:2010,192,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,6,Unarmoured,PVC,IS 694:2010,269,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,10,Unarmoured,PVC,IS 694:2010,422,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,2,16,Unarmoured,PVC,IS 694:2010,652,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,1.5,Unarmoured,PVC,IS 694:2010,130,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,2.5,Unarmoured,PVC,IS 694:2010,182,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,4,Unarmoured,PVC,IS 694:2010,260,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,6,Unarmoured,PVC,IS 694:2010,364,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,10,Unarmoured,PVC,IS 694:2010,572,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,3,16,Unarmoured,PVC,IS 694:2010,884,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,1.5,Unarmoured,PVC,IS 694:2010,164,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,2.5,Unarmoured,PVC,IS 694:2010,230,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,4,Unarmoured,PVC,IS 694:2010,328,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,6,Unarmoured,PVC,IS 694:2010,459,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,10,Unarmoured,PVC,IS 694:2010,721,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Aluminium,4,16,Unarmoured,PVC,IS 694:2010,1115,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,1.5,Unarmoured,PVC,IS 694:2010,128,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,2.5,Unarmoured,PVC,IS 694:2010,179,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,4,Unarmoured,PVC,IS 694:2010,256,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,6,Unarmoured,PVC,IS 694:2010,358,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,10,Unarmoured,PVC,IS 694:2010,563,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,2,16,Unarmoured,PVC,IS 694:2010,870,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,1.5,Unarmoured,PVC,IS 694:2010,173,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,2.5,Unarmoured,PVC,IS 694:2010,243,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,4,Unarmoured,PVC,IS 694:2010,346,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,6,Unarmoured,PVC,IS 694:2010,485,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,10,Unarmoured,PVC,IS 694:2010,762,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,3,16,Unarmoured,PVC,IS 694:2010,1178,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,1.5,Unarmoured,PVC,IS 694:2010,219,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,2.5,Unarmoured,PVC,IS 694:2010,306,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,4,Unarmoured,PVC,IS 694:2010,437,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,6,Unarmoured,PVC,IS 694:2010,612,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,10,Unarmoured,PVC,IS 694:2010,962,Extended: demo estimate — replace with real rates
+Flat & Building Wire,Flat Cable,450/750 V,Copper,4,16,Unarmoured,PVC,IS 694:2010,1487,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,0.75,Unarmoured,PVC,IS 694:2010,41,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,1,Unarmoured,PVC,IS 694:2010,48,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,1.5,Unarmoured,PVC,IS 694:2010,62,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,2.5,Unarmoured,PVC,IS 694:2010,90,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,4,Unarmoured,PVC,IS 694:2010,132,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FR PVC Insulated Wire,450/750 V,Copper,1,6,Unarmoured,PVC,IS 694:2010,188,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,1120,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,1202,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,1310,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,1444,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,1580,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,1742,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,1931,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,2228,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,2552,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,3092,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,2913,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,3124,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,3405,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,3756,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,4107,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,4528,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,5019,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,5792,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,6634,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,6.6 kV,Aluminium,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,8038,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,1793,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,1922,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,2095,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,2311,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,2527,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,2786,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,3089,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,3564,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,4082,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,4946,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,4661,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,4998,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,5448,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,6009,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,6571,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,7245,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,8031,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,9266,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,10614,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,6.6 kV,Copper,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,12861,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,1411,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,1513,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,1649,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,1819,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,1989,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,2193,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,2431,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,2805,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,3213,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,3893,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,3669,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,3934,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,4287,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,4729,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,5171,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,5702,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,6321,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,7293,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,8354,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,11 kV,Aluminium,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,10122,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,2258,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,2421,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,2638,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,2910,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,3182,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,3509,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,3890,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,4488,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,5141,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,6229,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,5870,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,6294,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,6860,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,7567,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,8274,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,9123,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,10113,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,11669,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,13366,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,11 kV,Copper,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,16195,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,1992,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,2136,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,2328,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,2568,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,2808,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,3096,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,3432,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,3960,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,4536,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,5496,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,5179,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,5554,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,6053,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,6677,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,7301,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,8050,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,8923,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,10296,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,11794,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,22 kV,Aluminium,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,14290,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,3187,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,3418,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,3725,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,4109,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,4493,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,4954,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,5491,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,6336,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,7258,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,8794,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,8287,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,8886,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,9684,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,10683,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,11681,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,12879,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,14277,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,16474,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,18870,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,22 kV,Copper,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,22863,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,2656,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,2848,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,3104,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,3424,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,3744,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,4128,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,4576,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,5280,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,6048,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,7328,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,6906,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,7405,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,8070,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,8902,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,9734,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,10733,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,11898,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,13728,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,15725,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,33 kV,Aluminium,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,19053,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,35,Armoured,XLPE,IS 7098 (Part 2):2011,4250,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,50,Armoured,XLPE,IS 7098 (Part 2):2011,4557,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,4966,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,5478,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,5990,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,6605,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,7322,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,8448,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,9677,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,11725,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,35,Armoured,XLPE,IS 7098 (Part 2):2011,11049,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,50,Armoured,XLPE,IS 7098 (Part 2):2011,11848,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,70,Armoured,XLPE,IS 7098 (Part 2):2011,12913,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,95,Armoured,XLPE,IS 7098 (Part 2):2011,14244,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,120,Armoured,XLPE,IS 7098 (Part 2):2011,15575,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,150,Armoured,XLPE,IS 7098 (Part 2):2011,17172,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,185,Armoured,XLPE,IS 7098 (Part 2):2011,19036,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,240,Armoured,XLPE,IS 7098 (Part 2):2011,21965,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,300,Armoured,XLPE,IS 7098 (Part 2):2011,25160,Extended: demo estimate — replace with real rates
+HT Power,2XWaY,33 kV,Copper,3,400,Armoured,XLPE,IS 7098 (Part 2):2011,30484,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,16,Unarmoured,XLPE,IS 14255,95,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,25,Unarmoured,XLPE,IS 14255,120,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,35,Unarmoured,XLPE,IS 14255,150,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,50,Unarmoured,XLPE,IS 14255,190,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,70,Unarmoured,XLPE,IS 14255,245,Extended: demo estimate — replace with real rates
+LT Distribution,Aerial Bunched Cable (ABC),1.1 kV,Aluminium,4,95,Unarmoured,XLPE,IS 14255,310,Extended: demo estimate — replace with real rates
+Solar,Solar DC Cable,1.5 kV,Copper,1,2.5,Unarmoured,XLPO,IS 17293,55,Extended: demo estimate — replace with real rates
+Solar,Solar DC Cable,1.5 kV,Copper,1,4,Unarmoured,XLPO,IS 17293,78,Extended: demo estimate — replace with real rates
+Solar,Solar DC Cable,1.5 kV,Copper,1,6,Unarmoured,XLPO,IS 17293,108,Extended: demo estimate — replace with real rates
+Solar,Solar DC Cable,1.5 kV,Copper,1,10,Unarmoured,XLPO,IS 17293,168,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 1 Pair,1.1 kV,Copper,2,0.5,Armoured,PVC,BS 5308,48,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 1 Pair,1.1 kV,Copper,2,0.75,Armoured,PVC,BS 5308,58,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 1 Pair,1.1 kV,Copper,2,1.5,Armoured,PVC,BS 5308,88,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 2 Pair,1.1 kV,Copper,4,0.5,Armoured,PVC,BS 5308,86,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 2 Pair,1.1 kV,Copper,4,0.75,Armoured,PVC,BS 5308,104,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 2 Pair,1.1 kV,Copper,4,1.5,Armoured,PVC,BS 5308,158,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 5 Pair,1.1 kV,Copper,10,0.5,Armoured,PVC,BS 5308,202,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 5 Pair,1.1 kV,Copper,10,0.75,Armoured,PVC,BS 5308,244,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 5 Pair,1.1 kV,Copper,10,1.5,Armoured,PVC,BS 5308,370,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 10 Pair,1.1 kV,Copper,20,0.5,Armoured,PVC,BS 5308,394,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 10 Pair,1.1 kV,Copper,20,0.75,Armoured,PVC,BS 5308,476,Extended: demo estimate — replace with real rates
+Instrumentation Cable,Shielded Instrumentation Cable 10 Pair,1.1 kV,Copper,20,1.5,Armoured,PVC,BS 5308,722,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FRLS PVC Insulated Wire,450/750 V,Copper,1,1,Unarmoured,FRLS PVC,IS 694:2010,55,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FRLS PVC Insulated Wire,450/750 V,Copper,1,1.5,Unarmoured,FRLS PVC,IS 694:2010,71,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FRLS PVC Insulated Wire,450/750 V,Copper,1,2.5,Unarmoured,FRLS PVC,IS 694:2010,103,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FRLS PVC Insulated Wire,450/750 V,Copper,1,4,Unarmoured,FRLS PVC,IS 694:2010,152,Extended: demo estimate — replace with real rates
+Flat & Building Wire,FRLS PVC Insulated Wire,450/750 V,Copper,1,6,Unarmoured,FRLS PVC,IS 694:2010,216,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Squirrel,33 kV,Aluminium,1,20,Unarmoured,Bare,IS 398 (Part 2),42,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Weasel,33 kV,Aluminium,1,30,Unarmoured,Bare,IS 398 (Part 2),58,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Rabbit,33 kV,Aluminium,1,50,Unarmoured,Bare,IS 398 (Part 2),92,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Dog,33 kV,Aluminium,1,100,Unarmoured,Bare,IS 398 (Part 2),178,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Wolf,33 kV,Aluminium,1,150,Unarmoured,Bare,IS 398 (Part 2),262,Extended: demo estimate — replace with real rates
+Overhead Conductor,ACSR Panther,33 kV,Aluminium,1,200,Unarmoured,Bare,IS 398 (Part 2),348,Extended: demo estimate — replace with real rates
+Overhead Conductor,AAAC,33 kV,Aluminium,1,34,Unarmoured,Bare,IS 398 (Part 4),60,Extended: demo estimate — replace with real rates
+Overhead Conductor,AAAC,33 kV,Aluminium,1,55,Unarmoured,Bare,IS 398 (Part 4),95,Extended: demo estimate — replace with real rates
+Overhead Conductor,AAAC,33 kV,Aluminium,1,100,Unarmoured,Bare,IS 398 (Part 4),172,Extended: demo estimate — replace with real rates
+Overhead Conductor,AAAC,33 kV,Aluminium,1,148,Unarmoured,Bare,IS 398 (Part 4),255,Extended: demo estimate — replace with real rates
+Overhead Conductor,AAAC,33 kV,Aluminium,1,232,Unarmoured,Bare,IS 398 (Part 4),392,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,2,1.5,Armoured,XLPE,BS 6387,277,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,2,2.5,Armoured,XLPE,BS 6387,360,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,2,4,Armoured,XLPE,BS 6387,485,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,3,1.5,Armoured,XLPE,BS 6387,381,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,3,2.5,Armoured,XLPE,BS 6387,495,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,3,4,Armoured,XLPE,BS 6387,667,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,4,1.5,Armoured,XLPE,BS 6387,484,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,4,2.5,Armoured,XLPE,BS 6387,630,Extended: demo estimate — replace with real rates
+Fire Survival,Fire Survival Cable,1.1 kV,Copper,4,4,Armoured,XLPE,BS 6387,848,Extended: demo estimate — replace with real rates
+Mining & Crane,Rubber Trailing Cable,1.1 kV,Copper,3,25,Unarmoured,EPR,IS 9968,520,Extended: demo estimate — replace with real rates
+Mining & Crane,Rubber Trailing Cable,1.1 kV,Copper,3,35,Unarmoured,EPR,IS 9968,690,Extended: demo estimate — replace with real rates
+Mining & Crane,Rubber Trailing Cable,1.1 kV,Copper,3,50,Unarmoured,EPR,IS 9968,930,Extended: demo estimate — replace with real rates
+Mining & Crane,Rubber Trailing Cable,1.1 kV,Copper,3,70,Unarmoured,EPR,IS 9968,1240,Extended: demo estimate — replace with real rates
+Mining & Crane,Rubber Trailing Cable,1.1 kV,Copper,3,95,Unarmoured,EPR,IS 9968,1580,Extended: demo estimate — replace with real rates
+EV Charging,EV Charging Cable,1 kV,Copper,5,2.5,Unarmoured,TPU,IEC 62893,240,Extended: demo estimate — replace with real rates
+EV Charging,EV Charging Cable,1 kV,Copper,5,4,Unarmoured,TPU,IEC 62893,320,Extended: demo estimate — replace with real rates
+EV Charging,EV Charging Cable,1 kV,Copper,5,6,Unarmoured,TPU,IEC 62893,430,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,5,1.5,Armoured,PVC,IS 1554 (Part 1):1988,180,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,5,2.5,Armoured,PVC,IS 1554 (Part 1):1988,249,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,7,1.5,Armoured,PVC,IS 1554 (Part 1):1988,231,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,7,2.5,Armoured,PVC,IS 1554 (Part 1):1988,318,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,10,1.5,Armoured,PVC,IS 1554 (Part 1):1988,307,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,10,2.5,Armoured,PVC,IS 1554 (Part 1):1988,423,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,12,1.5,Armoured,PVC,IS 1554 (Part 1):1988,357,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,12,2.5,Armoured,PVC,IS 1554 (Part 1):1988,493,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,16,1.5,Armoured,PVC,IS 1554 (Part 1):1988,458,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,16,2.5,Armoured,PVC,IS 1554 (Part 1):1988,632,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,19,1.5,Armoured,PVC,IS 1554 (Part 1):1988,534,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,19,2.5,Armoured,PVC,IS 1554 (Part 1):1988,737,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,24,1.5,Armoured,PVC,IS 1554 (Part 1):1988,660,Extended: demo estimate — replace with real rates
+LT Control,Multicore Control Cable,1.1 kV,Copper,24,2.5,Armoured,PVC,IS 1554 (Part 1):1988,911,Extended: demo estimate — replace with real rates
+Railway Signalling,Signalling Cable,1.1 kV,Copper,2,1,Armoured,PVC,IRS:S 63,68,Extended: demo estimate — replace with real rates
+Railway Signalling,Signalling Cable,1.1 kV,Copper,4,1,Armoured,PVC,IRS:S 63,110,Extended: demo estimate — replace with real rates
+Railway Signalling,Signalling Cable,1.1 kV,Copper,6,1,Armoured,PVC,IRS:S 63,152,Extended: demo estimate — replace with real rates
+Railway Signalling,Signalling Cable,1.1 kV,Copper,10,1,Armoured,PVC,IRS:S 63,235,Extended: demo estimate — replace with real rates
+HT Power,A2XWaY,3.3 kV,Aluminium,1,70,Unarmoured,XLPE,IS 7098 (Part 2):2011,840,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,95,Unarmoured,XLPE,IS 7098 (Part 2):2011,927,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,120,Unarmoured,XLPE,IS 7098 (Part 2):2011,1041,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,150,Unarmoured,XLPE,IS 7098 (Part 2):2011,1166,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,185,Unarmoured,XLPE,IS 7098 (Part 2):2011,1354,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,240,Unarmoured,XLPE,IS 7098 (Part 2):2011,1600,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,300,Unarmoured,XLPE,IS 7098 (Part 2):2011,1844,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,400,Unarmoured,XLPE,IS 7098 (Part 2):2011,2239,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,500,Unarmoured,XLPE,IS 7098 (Part 2):2011,2856,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,630,Unarmoured,XLPE,IS 7098 (Part 2):2011,3450,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,800,Unarmoured,XLPE,IS 7098 (Part 2):2011,4280,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XWaY,3.3 kV,Aluminium,1,1000,Unarmoured,XLPE,IS 7098 (Part 2):2011,5069,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,70,Armoured,XLPE,IS 7098 (Part 2):2011,1061,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 2):2011,1163,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,120,Armoured,XLPE,IS 7098 (Part 2):2011,1305,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,150,Armoured,XLPE,IS 7098 (Part 2):2011,1459,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,185,Armoured,XLPE,IS 7098 (Part 2):2011,1703,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,240,Armoured,XLPE,IS 7098 (Part 2):2011,2017,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,300,Armoured,XLPE,IS 7098 (Part 2):2011,2310,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,400,Armoured,XLPE,IS 7098 (Part 2):2011,2808,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,500,Armoured,XLPE,IS 7098 (Part 2):2011,3583,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,630,Armoured,XLPE,IS 7098 (Part 2):2011,4329,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,800,Armoured,XLPE,IS 7098 (Part 2):2011,5381,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFaY,3.3 kV,Aluminium,1,1000,Armoured,XLPE,IS 7098 (Part 2):2011,6365,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,70,Unarmoured,XLPE,IS 7098 (Part 2):2011,1856,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,95,Unarmoured,XLPE,IS 7098 (Part 2):2011,2094,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,120,Unarmoured,XLPE,IS 7098 (Part 2):2011,2535,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,150,Unarmoured,XLPE,IS 7098 (Part 2):2011,2976,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,185,Unarmoured,XLPE,IS 7098 (Part 2):2011,3414,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,240,Unarmoured,XLPE,IS 7098 (Part 2):2011,4162,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,300,Unarmoured,XLPE,IS 7098 (Part 2):2011,4975,Extended: armouring mirror of EY row — verify before quoting
+HT Power,A2XFY,3.3 kV,Aluminium,3,400,Unarmoured,XLPE,IS 7098 (Part 2):2011,6309,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,4,Armoured,XLPE,IS 7098 (Part 1):1988,135,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,4,Armoured,XLPE,IS 7098 (Part 1):1988,168,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,3,4,Armoured,XLPE,IS 7098 (Part 1):1988,201,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,6,Armoured,XLPE,IS 7098 (Part 1):1988,271,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,3,10,Armoured,XLPE,IS 7098 (Part 1):1988,302,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,10,Armoured,XLPE,IS 7098 (Part 1):1988,356,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,16,Armoured,XLPE,IS 7098 (Part 1):1988,275,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,16,Armoured,XLPE,IS 7098 (Part 1):1988,452,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,25,Armoured,XLPE,IS 7098 (Part 1):1988,356,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,25,Armoured,XLPE,IS 7098 (Part 1):1988,668,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,35,Armoured,XLPE,IS 7098 (Part 1):1988,467,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,35,Armoured,XLPE,IS 7098 (Part 1):1988,796,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,50,Armoured,XLPE,IS 7098 (Part 1):1988,586,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,50,Armoured,XLPE,IS 7098 (Part 1):1988,1065,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,70,Armoured,XLPE,IS 7098 (Part 1):1988,844,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,70,Armoured,XLPE,IS 7098 (Part 1):1988,1528,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,95,Armoured,XLPE,IS 7098 (Part 1):1988,1000,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,95,Armoured,XLPE,IS 7098 (Part 1):1988,1822,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,2,120,Armoured,XLPE,IS 7098 (Part 1):1988,1248,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,4,120,Armoured,XLPE,IS 7098 (Part 1):1988,2323,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,4,Unarmoured,XLPE,IS 7098 (Part 1):1988,182,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,4,Unarmoured,XLPE,IS 7098 (Part 1):1988,220,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,287,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,317,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,422,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,338,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,552,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,422,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,715,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,546,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,955,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,731,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,1298,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,2,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,903,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,4,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,1619,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,4,Armoured,XLPE,IS 7098 (Part 1):1988,411,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,4,Armoured,XLPE,IS 7098 (Part 1):1988,584,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,6,Armoured,XLPE,IS 7098 (Part 1):1988,722,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,10,Armoured,XLPE,IS 7098 (Part 1):1988,1038,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,10,Armoured,XLPE,IS 7098 (Part 1):1988,1703,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,16,Armoured,XLPE,IS 7098 (Part 1):1988,1464,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,16,Armoured,XLPE,IS 7098 (Part 1):1988,2666,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,25,Armoured,XLPE,IS 7098 (Part 1):1988,2438,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,25,Armoured,XLPE,IS 7098 (Part 1):1988,4438,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,35,Armoured,XLPE,IS 7098 (Part 1):1988,3378,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,35,Armoured,XLPE,IS 7098 (Part 1):1988,6358,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,50,Armoured,XLPE,IS 7098 (Part 1):1988,4631,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,50,Armoured,XLPE,IS 7098 (Part 1):1988,8501,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,70,Armoured,XLPE,IS 7098 (Part 1):1988,6603,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,70,Armoured,XLPE,IS 7098 (Part 1):1988,12559,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,2,95,Armoured,XLPE,IS 7098 (Part 1):1988,9026,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,4,95,Armoured,XLPE,IS 7098 (Part 1):1988,17612,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWaY,1.1 kV,Copper,1,4,Unarmoured,XLPE,IS 7098 (Part 1):1988,365,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,4,Unarmoured,XLPE,IS 7098 (Part 1):1988,488,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,6,Unarmoured,XLPE,IS 7098 (Part 1):1988,704,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,10,Unarmoured,XLPE,IS 7098 (Part 1):1988,815,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,10,Unarmoured,XLPE,IS 7098 (Part 1):1988,1462,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,1209,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,16,Unarmoured,XLPE,IS 7098 (Part 1):1988,2162,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,1986,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,3574,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,2721,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,5070,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,3555,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,6879,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,5280,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,70,Unarmoured,XLPE,IS 7098 (Part 1):1988,9930,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,2,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,7296,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,4,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,13794,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,2,0.5,Unarmoured,PVC,IS 1554 (Part 1):1988,172,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,2,1,Unarmoured,PVC,IS 1554 (Part 1):1988,202,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,4,1,Unarmoured,PVC,IS 1554 (Part 1):1988,269,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,8,1,Unarmoured,PVC,IS 1554 (Part 1):1988,409,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,12,1,Unarmoured,PVC,IS 1554 (Part 1):1988,527,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,4,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,392,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,8,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,583,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,12,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,796,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,19,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,1108,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,24,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,1382,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,37,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,1924,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,61,1.5,Unarmoured,PVC,IS 1554 (Part 1):1988,2964,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,2,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,282,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,4,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,464,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,8,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,811,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,12,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,1148,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,19,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,1683,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,24,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,2042,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,37,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,2844,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XFY,1.1 kV,Copper,61,2.5,Unarmoured,XLPE,IS 1554 (Part 1):1988,4241,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,2,1,Armoured,PVC,IS 1554 (Part 1):1988,228,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,4,1,Armoured,PVC,IS 1554 (Part 1):1988,293,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,8,1,Armoured,PVC,IS 1554 (Part 1):1988,483,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,12,1,Armoured,XLPE,IS 1554 (Part 1):1988,636,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,8,1.5,Armoured,PVC,IS 1554 (Part 1):1988,598,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,12,1.5,Armoured,PVC,IS 1554 (Part 1):1988,805,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,19,1.5,Armoured,XLPE,IS 1554 (Part 1):1988,1210,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,24,1.5,Armoured,PVC,IS 1554 (Part 1):1988,1494,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,37,1.5,Armoured,PVC,IS 1554 (Part 1):1988,2056,Extended: armouring mirror of EY row — verify before quoting
+LT Control,2XY,1.1 kV,Copper,61,1.5,Armoured,PVC,IS 1554 (Part 1):1988,3272,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,0.5,Armoured,FR PVC,IS 694:2010,10,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,0.75,Armoured,FR PVC,IS 694:2010,13,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,1,Armoured,FR PVC,IS 694:2010,16,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,1.5,Armoured,FR PVC,IS 694:2010,21,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,2.5,Armoured,FR PVC,IS 694:2010,34,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,4,Armoured,FR PVC,IS 694:2010,51,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FR,1.1 kV,Copper,1,6,Armoured,FR PVC,IS 694:2010,73,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FRLS,1.1 kV,Copper,1,1,Armoured,FRLS PVC,IS 694:2010,19,Extended: armouring mirror of EY row — verify before quoting
+Flexible,FRLS,1.1 kV,Copper,1,2.5,Armoured,FRLS PVC,IS 694:2010,38,Extended: armouring mirror of EY row — verify before quoting
+Flexible,HRFR,1.1 kV,Copper,1,1.5,Armoured,HRFR PVC,IS 694:2010,23,Extended: armouring mirror of EY row — verify before quoting
+Flexible,HRFR,1.1 kV,Copper,1,2.5,Armoured,HRFR PVC,IS 694:2010,39,Extended: armouring mirror of EY row — verify before quoting
+Flexible,HRFR,1.1 kV,Copper,1,4,Armoured,HRFR PVC,IS 694:2010,60,Extended: armouring mirror of EY row — verify before quoting
+Flexible,HRFR,1.1 kV,Copper,1,6,Armoured,HRFR PVC,IS 694:2010,83,Extended: armouring mirror of EY row — verify before quoting
+Flexible,HRFR,1.1 kV,Copper,1,10,Armoured,HRFR PVC,IS 694:2010,132,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,0.75,Armoured,PVC,IS 694:2010,40,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,1,Armoured,PVC,IS 694:2010,52,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,1.5,Armoured,PVC,IS 694:2010,75,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,2.5,Armoured,PVC,IS 694:2010,125,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,4,Armoured,PVC,IS 694:2010,130,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,6,Armoured,PVC,IS 694:2010,192,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,10,Armoured,PVC,IS 694:2010,331,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FR,1.1 kV,Copper,1,16,Armoured,PVC,IS 694:2010,523,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,0.75,Armoured,PVC,IS 694:2010,27,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,1,Armoured,PVC,IS 694:2010,35,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,1.5,Armoured,PVC,IS 694:2010,51,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,2.5,Armoured,PVC,IS 694:2010,85,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,4,Armoured,PVC,IS 694:2010,88,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,6,Armoured,PVC,IS 694:2010,130,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,10,Armoured,PVC,IS 694:2010,223,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,FRLSH,1.1 kV,Copper,1,16,Armoured,PVC,IS 694:2010,374,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,0.75,Armoured,PVC,IS 694:2010,43,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,1,Armoured,PVC,IS 694:2010,55,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,1.5,Armoured,PVC,IS 694:2010,81,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,2.5,Armoured,PVC,IS 694:2010,135,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,4,Armoured,PVC,IS 694:2010,140,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,6,Armoured,PVC,IS 694:2010,206,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,10,Armoured,PVC,IS 694:2010,356,Extended: armouring mirror of EY row — verify before quoting
+Industrial Cable,HFFR,1.1 kV,Copper,1,16,Armoured,PVC,IS 694:2010,559,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,35,Armoured,XLPE,IS 7098 (Part 1):1988,315,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,35,Unarmoured,XLPE,IS 7098 (Part 1):1988,326,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,95,Armoured,XLPE,IS 7098 (Part 1):1988,621,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,600,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,1,630,Armoured,XLPE,IS 7098 (Part 1):1988,3565,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWaY,1.1 kV,Aluminium,1,1000,Unarmoured,XLPE,IS 7098 (Part 1):1988,4002,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XY,1.1 kV,Aluminium,3.5,50,Armoured,XLPE,IS 7098 (Part 1):1988,747,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,687,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,25,Armoured,XLPE,IS 7098 (Part 1):1988,903,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,25,Unarmoured,XLPE,IS 7098 (Part 1):1988,792,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,95,Armoured,XLPE,IS 7098 (Part 1):1988,1984,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,95,Unarmoured,XLPE,IS 7098 (Part 1):1988,1731,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,1,400,Armoured,XLPE,IS 7098 (Part 1):1988,5980,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,1,400,Unarmoured,XLPE,IS 7098 (Part 1):1988,5324,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XY,1.1 kV,Copper,3.5,50,Armoured,XLPE,IS 7098 (Part 1):1988,3507,Extended: armouring mirror of EY row — verify before quoting
+LT Power,2XWY,1.1 kV,Copper,3.5,50,Unarmoured,XLPE,IS 7098 (Part 1):1988,3028,Extended: armouring mirror of EY row — verify before quoting
+Welding Cable,WC,100 V RMS,Copper,1,16,Armoured,Elastomer (EPR),IS 9857 / IEC 245-6,247,Extended: armouring mirror of EY row — verify before quoting
+Welding Cable,WC,100 V RMS,Copper,1,25,Armoured,Elastomer (EPR),IS 9857 / IEC 245-6,310,Extended: armouring mirror of EY row — verify before quoting
+Welding Cable,WC,100 V RMS,Copper,1,35,Armoured,Elastomer (EPR),IS 9857 / IEC 245-6,368,Extended: armouring mirror of EY row — verify before quoting
+Welding Cable,WC,100 V RMS,Copper,1,50,Armoured,Elastomer (EPR),IS 9857 / IEC 245-6,483,Extended: armouring mirror of EY row — verify before quoting
+Welding Cable,WC,100 V RMS,Copper,1,70,Armoured,Elastomer (EPR),IS 9857 / IEC 245-6,621,Extended: armouring mirror of EY row — verify before quoting
+Submersible Cable,SFC,1.1 kV,Copper,3,1.5,Armoured,PVC,IS 694:2010,112,Extended: armouring mirror of EY row — verify before quoting
+Submersible Cable,SFC,1.1 kV,Copper,3,2.5,Armoured,PVC,IS 694:2010,152,Extended: armouring mirror of EY row — verify before quoting
+Submersible Cable,SFC,1.1 kV,Copper,3,4,Armoured,PVC,IS 694:2010,205,Extended: armouring mirror of EY row — verify before quoting
+Submersible Cable,SFC,1.1 kV,Copper,3,6,Armoured,PVC,IS 694:2010,288,Extended: armouring mirror of EY row — verify before quoting
+Coaxial Cable,RG6,90 V,Copper,1,,Armoured,PVC,N/A,26,Extended: armouring mirror of EY row — verify before quoting
+Coaxial Cable,RG59,90 V,Copper,1,,Armoured,PVC,N/A,21,Extended: armouring mirror of EY row — verify before quoting
+CCTV Cable,CCTV 3+1,90 V,Copper,4,,Armoured,PVC,N/A,39,Extended: armouring mirror of EY row — verify before quoting
+CCTV Cable,CCTV 4+1,90 V,Copper,5,,Armoured,PVC,N/A,46,Extended: armouring mirror of EY row — verify before quoting
+LAN Cable,CAT5e,<100 V,Copper,8,,Armoured,PVC,ISO/IEC 11801,40,Extended: armouring mirror of EY row — verify before quoting
+LAN Cable,CAT6,<100 V,Copper,8,,Armoured,PVC,ISO/IEC 11801,55,Extended: armouring mirror of EY row — verify before quoting
+Instrumentation Cable,INST-S,1.1 kV,Copper,2,0.5,Unarmoured,PVC,IS 1554 (Pt 1):1988,82,Extended: armouring mirror of EY row — verify before quoting
+Instrumentation Cable,INST-S,1.1 kV,Copper,4,0.5,Unarmoured,PVC,IS 1554 (Pt 1):1988,155,Extended: armouring mirror of EY row — verify before quoting
+Instrumentation Cable,INST-S,1.1 kV,Copper,8,0.5,Unarmoured,PVC,IS 1554 (Pt 1):1988,285,Extended: armouring mirror of EY row — verify before quoting
+Instrumentation Cable,INST-S,1.1 kV,Copper,12,0.5,Unarmoured,PVC,IS 1554 (Pt 1):1988,396,Extended: armouring mirror of EY row — verify before quoting
+Instrumentation Cable,INST-S,1.1 kV,Copper,24,0.5,Unarmoured,PVC,IS 1554 (Pt 1):1988,774,Extended: armouring mirror of EY row — verify before quoting
+Telephone Cable,TP,110 V,Copper,2,0.5,Armoured,PVC,IS 694 / DoT Spec,16,Extended: armouring mirror of EY row — verify before quoting
+Telephone Cable,TP,110 V,Copper,5,0.5,Armoured,PVC,IS 694 / DoT Spec,34,Extended: armouring mirror of EY row — verify before quoting
+Telephone Cable,TP,110 V,Copper,10,0.5,Armoured,PVC,IS 694 / DoT Spec,63,Extended: armouring mirror of EY row — verify before quoting
+Telephone Cable,TP,110 V,Copper,20,0.5,Armoured,PVC,IS 694 / DoT Spec,117,Extended: armouring mirror of EY row — verify before quoting
+BMS / Control Cable,BMS,300 V,Copper,2,1,Armoured,PVC,BS 5308 / IEC 60227,37,Extended: armouring mirror of EY row — verify before quoting
+BMS / Control Cable,BMS,300 V,Copper,4,1,Armoured,PVC,BS 5308 / IEC 60227,57,Extended: armouring mirror of EY row — verify before quoting
+Speaker Cable,SPKR,300 V,Copper,2,1.5,Armoured,PVC,IEC 60227,46,Extended: armouring mirror of EY row — verify before quoting
+Speaker Cable,SPKR,300 V,Copper,2,2.5,Armoured,PVC,IEC 60227,63,Extended: armouring mirror of EY row — verify before quoting
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,25,Armoured,XLPE,IS 7098 (Part 1):1988,175,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,35,Armoured,XLPE,IS 7098 (Part 1):1988,209,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,50,Armoured,XLPE,IS 7098 (Part 1):1988,260,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,70,Armoured,XLPE,IS 7098 (Part 1):1988,328,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,95,Armoured,XLPE,IS 7098 (Part 1):1988,413,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,120,Armoured,XLPE,IS 7098 (Part 1):1988,498,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,150,Armoured,XLPE,IS 7098 (Part 1):1988,600,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,185,Armoured,XLPE,IS 7098 (Part 1):1988,719,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,240,Armoured,XLPE,IS 7098 (Part 1):1988,906,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,300,Armoured,XLPE,IS 7098 (Part 1):1988,1110,Extended: demo estimate — replace with real rates
+LT Power,A2XWY,1.1 kV,Aluminium,3.5,400,Armoured,XLPE,IS 7098 (Part 1):1988,1450,Extended: demo estimate — replace with real rates

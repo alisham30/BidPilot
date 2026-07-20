@@ -1,0 +1,82 @@
+# Single source of truth for all sources, keywords, categories, thresholds and URLs.
+# The application code contains zero source-specific logic.
+
+email:
+  imap_host: imap.gmail.com
+  folders: [INBOX]
+  lookback_days: 90
+  keywords: [tender, rfp, request for proposal, bid, enquiry, NIT, quotation]
+  attachment_types: [.pdf, .docx, .xlsx, .zip]
+  max_ingests_per_poll: 5
+  peek_newest: 200
+
+web:
+  urls: []            # add your tender portals here — any listing page works
+  request_timeout: 30
+
+filters:
+  due_within_days: 92
+  product_categories: [wires, cables, conductors, XLPE cables, control cables, power cables]
+
+matching:
+  mto_threshold: 80
+  top_k: 3
+  shortlist_size: 10
+  equivalences:
+    aluminium: [al, aluminum]
+    copper: [cu]
+    xlpe: [cross-linked polyethylene, cross linked polyethylene]
+    pvc: [polyvinyl chloride]
+    armoured: [armored, swa, sta, wire armoured, strip armoured, steel armoured, steel, "yes", with armour]
+    unarmoured: [unarmored, non-armoured, "no", none, without armour, nil]
+    # standards — year/part variants of the same IS spec
+    "is 7098 (part 1):1988": [is 7098 (part 1), is 7098 part 1, is 7098-1]
+    "is 7098 (part 2):2011": [is 7098 (part 2), is 7098 part 2, is 7098-2, is 7098 (part 2):1985]
+    "is 694:2010": [is 694, is:694, is 694:1990]
+    "is 1554 (part 1):1988": [is 1554 (part 1), is 1554 part 1, is 1554]
+    "is 14855": [is 14855 (part 1), is 14855 part 1, is 14855:2000]
+    "is 8130:2013": [is 8130, is 8130:1984]
+
+catalog:
+  # Maps datasheet CSV headers → canonical spec names (the same names the RFP
+  # extractor emits, so the scorer can compare them). Extend without code changes.
+  header_aliases:
+    product_category: [product category, category]
+    cable_type: [cable type, type]
+    voltage_grade: [voltage grade, voltage, voltage rating]
+    conductor_material: [conductor material, conductor]
+    core_count: [core count, cores, no of cores]
+    cross_section_sqmm: [cross section (sq.mm), cross section, cross section sqmm, size (sq.mm), size]
+    armouring: [armouring, armoring, armour]
+    insulation_type: [insulation type, insulation]
+    standard: [standard, is standard, specification]
+  price_headers: [price (rupees/m), price (inr/m), unit price, price]
+  price_unit: m
+  currency: INR
+  # Standard engineering properties implied by the insulation system (per IS
+  # specs) — filled in ONLY when the datasheet doesn't state them explicitly.
+  derived_specs:
+    xlpe: { temp_rating: "90 deg_c", sheath_type: "PVC ST2" }
+    pvc: { temp_rating: "70 deg_c", sheath_type: "PVC ST1" }
+    frls pvc: { temp_rating: "70 deg_c", sheath_type: "FRLS PVC" }
+    hffr: { temp_rating: "90 deg_c", sheath_type: "HFFR" }
+    epr: { temp_rating: "90 deg_c", sheath_type: "PCP" }
+    xlpo: { temp_rating: "120 deg_c", sheath_type: "XLPO" }
+    tpu: { temp_rating: "90 deg_c", sheath_type: "TPU" }
+
+llm:
+  # provider: anthropic needs a real Anthropic key (starts with sk-ant-) in .env.
+  # Running on openai until one is available — flip this line to switch.
+  provider: openai
+  model: claude-sonnet-5
+  openai_model: gpt-4o-mini
+  max_input_chars: 60000
+  max_retries: 2
+  timeout_seconds: 180
+  embedding_model: text-embedding-3-small
+  embedding_dim: 1536
+
+tracking:
+  deadline_warn_days: 5
+  reply_poll_minutes: 30
+  confidence_threshold: 0.6
